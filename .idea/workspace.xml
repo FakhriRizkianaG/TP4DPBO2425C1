@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aab9651a-10de-450c-a6b5-5b2638f354b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="aab9651a-10de-450c-a6b5-5b2638f354b7" name="Changes" comment="Add file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductData/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductData/src/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductData/src/ProductMenu.form" beforeDir="false" afterPath="$PROJECT_DIR$/ProductData/src/ProductMenu.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductData/src/ProductMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductData/src/ProductMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "FakhriRizkianaG"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FakhriRizkianaG/TP4DPBO2425C1.git",
+    "accountId": "8fd2c29f-5a1b-42e1-bf82-56959bd8c3ae"
+  }
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -71,14 +86,33 @@
       <updated>1759254799597</updated>
       <workItem from="1759254800870" duration="2465000" />
     </task>
+    <task id="LOCAL-00001" summary="Add file">
+      <option name="closed" value="true" />
+      <created>1760096635248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760096635248</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="20e49115-5bf4-4a53-8f6c-072db07567e5" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="20e49115-5bf4-4a53-8f6c-072db07567e5">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -92,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file" />
   </component>
 </project>
